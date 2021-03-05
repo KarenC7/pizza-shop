@@ -17,7 +17,7 @@ public class Main {
     	String csv = "";
     	
     	//You can pass by args the route or take it from the project
-    		csv = "D:/Documents/GitHub/pizza-shop/src/main/resources/ingredient_inventory.csv";
+    		csv = "D:/Documents/Git/pizza-shop/src/main/resources/ingredient_inventory.csv";
 
     	
     	//Get ingredients to start from excel
