@@ -60,7 +60,7 @@ Available ingredients:
 - jalapeno: 5
 - cheese: 98
 New order? (y/n)
--> y (enter)
+_ y (enter)
 Write Topping (Can choose 3) >
 -> ham (enter)
 How many ham? >
