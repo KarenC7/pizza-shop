@@ -36,19 +36,19 @@ Available ingredients:
 - jalapeno: 5
 - cheese: 100
 New order? (y/n)
-> y (enter)
+-> y (enter)
 Write Topping (Can choose 3) >
-> ham
+-> ham (enter)
 How many ham? >
-> 1
+-> 1 (enter)
 Write Topping (Can choose 2) >
-cheese
+cheese (enter)
 How many cheese? >
-2
+-> 2 (enter)
 Write Topping (Can choose 1) >
-sausage
+-> sausage (enter)
 How many sausage? >
-2
+-> 2 (enter)
 ########## Starting to bake Pizza 1... ###########
 
 Available ingredients: 
@@ -60,13 +60,13 @@ Available ingredients:
 - jalapeno: 5
 - cheese: 98
 New order? (y/n)
-y
+-> y (enter)
 Write Topping (Can choose 3) >
-ham
+-> ham (enter)
 How many ham? >
-1
+-> 1 (enter)
 ##################### PIZZA ORDER 1 FINISHED #####################   <------- Inmediatelly when it ends show the result
 Write Topping (Can choose 2) >
-cheese
+-> cheese (enter)
 
 ... continue
