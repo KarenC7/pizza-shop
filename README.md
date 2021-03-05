@@ -24,3 +24,49 @@ Placing an order for a mushroom and sausage pizza…
 
 Topping> 
 ```
+-----------------------------------------------------------------
+## How does it work
+
+Available ingredients: 
+- ham: 7
+- pineapples: 5
+- sausage: 10
+- pepperoni: 10
+- mushroom: 10
+- jalapeno: 5
+- cheese: 100
+New order? (y/n)
+> y (enter)
+Write Topping (Can choose 3) >
+> ham
+How many ham? >
+> 1
+Write Topping (Can choose 2) >
+cheese
+How many cheese? >
+2
+Write Topping (Can choose 1) >
+sausage
+How many sausage? >
+2
+########## Starting to bake Pizza 1... ###########
+
+Available ingredients: 
+- ham: 6
+- pineapples: 5
+- sausage: 8
+- pepperoni: 10
+- mushroom: 10
+- jalapeno: 5
+- cheese: 98
+New order? (y/n)
+y
+Write Topping (Can choose 3) >
+ham
+How many ham? >
+1
+##################### PIZZA ORDER 1 FINISHED #####################   <------- Inmediatelly when it ends show the result
+Write Topping (Can choose 2) >
+cheese
+
+... continue
